@@ -1,4 +1,4 @@
-PeopleSoft equipment project
+Equipment project
 ==============
 
 Ryan Lukas
